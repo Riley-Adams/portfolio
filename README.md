@@ -13,7 +13,7 @@ In this project, which was a final project for a course at UC Davis called STA 1
 
 * Given a professor’s review text, can we classify the reviewer’s sentiment as good or bad?
 
-To obtain the data necessary for this project we scraped all professor names from the UC Davis RateMyProfessors page and then scraped data from all subsequent professors' pages. We conducted exploratory analysis, cleaned the data, then implemented natural language processing techniques to process review text. Then we built a logistic regression model to perform sentiment classification and assessed our results.
+To obtain the data necessary for this project we scraped all professor names from the UC Davis RateMyProfessors page and then scraped data from all subsequent professors' pages. We conducted exploratory analysis, cleaned the data, then implemented natural language processing techniques to process review text. Lastly, we built a logistic regression model to perform sentiment classification and assessed our results.
 
 # Analysis of Movies
 
