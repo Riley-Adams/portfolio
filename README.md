@@ -56,7 +56,7 @@ In this project, which was a final project for a course at UC Davis called STA 1
 * Utilized AIC model selection criteria to fit an appropriate ARIMA model.
 * Performed graphical diagnostics to determine whether the chosen ARIMA model was appropriate.
 * Analyzed a plot of the spectral density and smoothed periodogram for the ARIMA fitted values.
-* Assessed the models ability to forcast temperature anomalies.
+* Assessed the models ability to forecast temperature anomalies.
 
 ## Analysis of Movies
 
