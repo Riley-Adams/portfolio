@@ -2,11 +2,27 @@
 Please find below some examples of my past data science projects.
 
 # Sentiment Analysis of UC Davis Professor Reviews
+
 [Project Report](https://github.com/Riley-Adams/sta141b_project/blob/main/sta141B_final_report.pdf)
 
 [Project Repository](https://github.com/Riley-Adams/sta141b_project)
 
 In this project, which was a final project for a course called STA 141B: Data & Web Technologies for Data Analysis at UC Davis, we used Python to conduct a sentiment analysis of reviews from RateMyProfessors.com. To obtain the data necessary for this project we scraped all professor names from the UC Davis RateMyProfessors page and then scraped data from all subsequent professors' pages. We conducted exploratory analysis, cleaned the data, then implemented natural language processing techniques to process review text. Then we built a logistic regression model to perform sentiment classification and assessed our results.
+
+# Analysis of Movies
+
+[Project Website](https://finalprojectgroup7.netlify.app/index.html)
+[Project Repository](https://github.com/Riley-Adams/STA141AFinalProjectG7)
+
+In this project, which was a final project for a course called STA 141A: Fundamentals of Statistical Data Science, 
+we used R to conduct an analysis about on a large set of movie office data. We explored the following research questions: 
+
+* What are the strongest predictors of IMDb score; that is, are there variables that strongly predict if a movie will be well received by audiences?
+
+* How can we group movies together that contain similar attributes so that we can recommend similar movies to others?
+
+To address the first question, we implemented a multiple regression linear model. 
+For the second question, we implemented hierarchical clustering methods.
 
 # Curve Fitting for Life Expectancy Data
 
