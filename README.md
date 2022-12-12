@@ -1,5 +1,5 @@
 # Portfolio
-Please find below some examples of my past data science projects.
+Please find below some examples of my past projects.
 
 # Sentiment Analysis of UC Davis Professor Reviews
 
@@ -68,3 +68,31 @@ In this project, which was a final project for a course at UC Davis called STA 1
 [Project Repository](https://github.com/Riley-Adams/mat167finalProject)
 
 In this project, which was a final project for a course at UC Davis called MAT 167: Applied Linear Algebra, we used MATLAB to implement various algorithms which fit a curve to best describe the relationship between a country's average life expectancy and the average years of schooling for citizen's of that country. We compared the fit of linear, quadratic, cubic, and logarithmic curves using the 2-norm of the residuals vector. Curves were fit to the data by solving the least squares problem using the psuedoinverse, 3 different algorithms for QR decomposition (Classical Gram-Shmidt, Modified Gram-Schmidt, Householder Triangularization) and Singular Value Decomposition.
+
+# Methicillin-resistant Staphylococcus *aureus* (MRSA) - Modeling, Evolution, and 3-dimensional Structure
+
+This project was a term-long project for a course at UC Davis called MAT 124: Mathematical Biology. The project was completed in 3 distinct phases:
+
+## Modeling
+
+[Report](https://github.com/rjcampbe/MAT-124-MRSA-Project/blob/main/MAT_124_Project.pdf)
+
+In this first phase, we examined a 2002 paper which proposes a dynamical model for the spread of MRSA among inmates at the LA County Jail. We used MATLAB to approximate solution curves for each compartment of the model using the Runge-Kutta method, splitting the data by male and female inmates. We also recreated an analysis for the basic reproduction number, using a matrix method as well as a weighted average approach. Lastly, in R, we simulated values for the basic reproduction number based on random samples of varying parameter values.
+
+## Evolution
+
+[Report](https://github.com/rjcampbe/MAT-124-MRSA-Project/blob/main/MRSA_Project_Main.html)
+
+[Repository](https://github.com/rjcampbe/MAT-124-MRSA-Project)
+
+In this second phase, we examined the genetic similarity and evolution of 224 isolates of hypervirulent ST-8 type Staphylococcus *aureus* in order to gain insight into the background and spread of MRSA. In R, we implement various packages to conduct multiple sequence alignment, phylogenetic tree analysis, and topological data analysis.
+
+## 3d Structure / Summary Report
+
+[Report](https://github.com/rjcampbe/MAT124_Final/blob/main/MRSAfinal.html)
+
+[Repository](https://github.com/rjcampbe/MAT124_Final)
+
+In the final phase, I wrote up my own summary report of the previous 2 reports, and included an additional section where I found the 3D structure of the MecI protein, the Methicillin Resistance Regulatory protein. This protein is significant because it plays an important role in inducing resistance to Methicillin (an antibiotic used to treat infection caused by this bacteria) in many strains which have developed this resistance. 
+
+To obtain the data for the structure of the protein, I accessed the UniProt database and downloaded the FASTA file which codes for the amino acid sequence, translated from the MecI gene. The AlphaFold2 software tool was then used to simulate the structure of the protein. 
