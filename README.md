@@ -12,6 +12,7 @@ In this project, which was a final project for a course called STA 141B: Data & 
 # Analysis of Movies
 
 [Project Website](https://finalprojectgroup7.netlify.app/index.html)
+
 [Project Repository](https://github.com/Riley-Adams/STA141AFinalProjectG7)
 
 In this project, which was a final project for a course called STA 141A: Fundamentals of Statistical Data Science, 
