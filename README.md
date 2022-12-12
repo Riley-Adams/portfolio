@@ -31,6 +31,26 @@ we used R to conduct an analysis about on a large set of movie office data. We e
 To address the first question, we implemented a multiple regression linear model. 
 For the second question, we implemented hierarchical clustering methods.
 
+# Regression Model for Life Expectancy Data of Various Contries
+
+[Project Report](https://github.com/Riley-Adams/sta108finalProject/blob/main/TermProjectFinal.pdf)
+
+[Project Repository](https://github.com/Riley-Adams/sta108finalProject)
+
+In this project, which was a final project for a course at UC Davis called STA 108: Applied Statistical Methods - Regression Analysis, I used R 
+to find a parsimonious model which predicts life expectancy. In order to meed this goal I took the following steps:
+
+1. Built a model with LifeExpectancy as the outcome, and all remaining variables as predictors.
+
+2. Carried out a residual analysis to identify
+    * Deviations from linearity in any of the predictors
+    * Possible transformations of predictors
+    * Possible transformations fo the outcome variable.
+
+3. Assessed the potential for multicollinearity.
+
+4. Identified which variables are predictors of LifeExpectancy using model selection algorithms.
+
 # Curve Fitting for Life Expectancy Data
 
 [Project Repository](https://github.com/Riley-Adams/mat167finalProject)
