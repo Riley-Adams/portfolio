@@ -1,4 +1,4 @@
-# Portfolio
+# Riley Adams
 Please find below some examples of my past projects.
 
 # Sentiment Analysis of UC Davis Professor Reviews
