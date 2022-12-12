@@ -93,6 +93,6 @@ In this second phase, we examined the genetic similarity and evolution of 224 is
 
 [Repository](https://github.com/rjcampbe/MAT124_Final)
 
-In the final phase, I wrote up my own summary report of the previous 2 reports, and included an additional section where I found the 3D structure of the MecI protein, the Methicillin Resistance Regulatory protein. This protein is significant because it plays an important role in inducing resistance to Methicillin (an antibiotic used to treat infection caused by this bacteria) in many strains which have developed this resistance. 
+In the final phase, I wrote up my own summary report of the previous two reports, and included an additional section where I found the 3D structure of the MecI protein, the Methicillin Resistance Regulatory protein. This protein is significant because it plays an important role in inducing resistance to Methicillin (an antibiotic used to treat infection caused by this bacteria) in many strains which have developed this resistance. 
 
 To obtain the data for the structure of the protein, I accessed the UniProt database and downloaded the FASTA file which codes for the amino acid sequence, translated from the MecI gene. The AlphaFold2 software tool was then used to simulate the structure of the protein. 
