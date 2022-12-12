@@ -31,7 +31,7 @@ we used R to conduct an analysis about on a large set of movie office data. We e
 To address the first question, we implemented a multiple regression linear model. 
 For the second question, we implemented hierarchical clustering methods.
 
-# Regression Model for Life Expectancy Data of Various Contries
+# Regression Model for Life Expectancy Data of Various Countries
 
 [Project Report](https://github.com/Riley-Adams/sta108finalProject/blob/main/TermProjectFinal.pdf)
 
