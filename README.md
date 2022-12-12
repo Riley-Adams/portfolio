@@ -77,7 +77,7 @@ This project was a term-long project for a course at UC Davis called MAT 124: Ma
 
 [Report](https://github.com/rjcampbe/MAT-124-MRSA-Project/blob/main/MAT_124_Project.pdf)
 
-In this first phase, we examined a 2002 paper which proposes a dynamical model for the spread of MRSA among inmates at the LA County Jail. We used MATLAB to approximate solution curves for each compartment of the model using the Runge-Kutta method, splitting the data by male and female inmates. We also recreated an analysis for the basic reproduction number, using a matrix method as well as a weighted average approach. Lastly, in R, we simulated values for the basic reproduction number based on random samples of varying parameter values.
+In the first phase, we examined a 2002 paper which proposes a dynamical model for the spread of MRSA among inmates at the LA County Jail. We used MATLAB to approximate solution curves for each compartment of the model using the Runge-Kutta method, splitting the data by male and female inmates. We also recreated an analysis for the basic reproduction number, using a matrix method as well as a weighted average approach. Lastly, in R, we simulated values for the basic reproduction number based on random samples of varying parameter values.
 
 ### Evolution
 
@@ -85,7 +85,7 @@ In this first phase, we examined a 2002 paper which proposes a dynamical model f
 
 [Repository](https://github.com/rjcampbe/MAT-124-MRSA-Project)
 
-In this second phase, we examined the genetic similarity and evolution of 224 isolates of hypervirulent ST-8 type Staphylococcus *aureus* in order to gain insight into the background and spread of MRSA. In R, we implement various packages to conduct multiple sequence alignment, phylogenetic tree analysis, and topological data analysis.
+In the second phase, we examined the genetic similarity and evolution of 224 isolates of hypervirulent ST-8 type Staphylococcus *aureus* in order to gain insight into the background and spread of MRSA. In R, we implement various packages to conduct multiple sequence alignment, phylogenetic tree analysis, and topological data analysis.
 
 ### 3d Structure / Summary Report
 
